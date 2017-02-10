@@ -18,7 +18,7 @@ public class MainClass {
 	
 	
 	AdditionClass addingThree = new AdditionClass(4,5,3);
-		
+	//added by Melanie	
 	}
 	
 		
