@@ -19,6 +19,14 @@ public class MainClass {
 	
 	AdditionClass addingThree = new AdditionClass(4,5,3);
 	//added by Mehnaz	
+	
+	Multiplication multiply = new Multiplication();
+	int ResultMultiply = multiply.doMultiplication(5, 4);
+	
+	System.out.println("The result of Multiplication is: "+ResultMultiply);
+	
+
+	
 	}
 	
 		
