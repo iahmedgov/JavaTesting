@@ -7,6 +7,7 @@ public class MainClass {
 	
 	AdditionClass adding = new AdditionClass();
 	int ResultAdd = adding.doAddition(4, 5);
+	AdditionClass.doAddition(4,5);
 
 	
 	System.out.println("Sum is: "+ResultAdd);
